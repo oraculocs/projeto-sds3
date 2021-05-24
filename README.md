@@ -11,14 +11,15 @@ A aplicação consiste em exibir um Dashboard de Vendas a partir de dados fornec
 e a participação dos mesmos. Exibe também dados na tabela com busca paginada e agrupada de Vendas.
 
 
-## Layout web
-![Web 1](https://github.com/oraculocs/assets/tree/master/sds3/grafico.JPG)
+## Layout Web
 
-![Web 2](https://github.com/oraculocs/assets/tree/master/sds3/homeReact.JPG)
+![Web 1](https://github.com/oraculocs/assets/blob/master/sds3/homeReact.JPG)
 
-![Web 3](https://github.com/oraculocs/assets/tree/master/sds3/table2React.JPG)
+![Web 2](https://github.com/oraculocs/assets/blob/master/sds3/grafico.JPG)
 
-![Web 4](https://github.com/oraculocs/assets/tree/master/sds3/tableReact.JPG)
+![Web 3](https://github.com/oraculocs/assets/blob/master/sds3/table2React.JPG)
+
+![Web 4](https://github.com/oraculocs/assets/blob/master/sds3/tableReact.JPG)
 
 ## Modelo conceitual
 ![Image](https://github.com/devsuperior/bds-assets/raw/main/sds/sds3-mc.png "Modelo conceitual")
