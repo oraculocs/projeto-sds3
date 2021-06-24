@@ -10,6 +10,11 @@ Projeto Dashboard de Vendas é uma aplicação Full Stack Web construída durant
 A aplicação consiste em exibir um Dashboard de Vendas a partir de dados fornecidos por uma API Backend construída com Spring Boot. Tem como objetivo exibir gráficos das vendas realizadas, % de sucesso dos Vendedores 
 e a participação dos mesmos. Exibe também dados na tabela com busca paginada e agrupada de Vendas.
 
+<br/>
+<h2 align="center"> Funcionamento do Sistema </h2>
+
+<p align="center">
+  <img src="https://github.com/oraculocs/assets/blob/master/sds3/Dsvendas_low.gif" />
 
 ## Layout Web
 
